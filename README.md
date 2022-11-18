@@ -2,4 +2,4 @@
 ## ITMO University Student from Russia 
 
 - 📫 How to reach me: https://t.me/DimaTivator
-- 🎓 First-year student at ITMO University cse
+- 🎓 First-year CSE student at ITMO University 
