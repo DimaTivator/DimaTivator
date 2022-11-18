@@ -1,5 +1,13 @@
-# Hi there! I'm Dmtirii Andriianov 
-## ITMO University Student from Russia 
+<h1 align="center">Hi there👋, I'm Dmitrii Andriianov</h1>
+<h3 align="center">ITMO University Student from Russia</h3>
 
-- 📫 How to reach me: https://t.me/DimaTivator
-- 🎓 First-year CSE student at ITMO University 
+- 📫 How to reach me **https://t.me/DimaTivator**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codeforces.com/profile/dmitrii_andriianov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dmitrii_andriianov" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dimativator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dimativator" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
