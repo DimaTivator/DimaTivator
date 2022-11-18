@@ -2,6 +2,7 @@
 <h3 align="center">ITMO University Student from Russia</h3>
 
 - 📫 How to reach me **https://t.me/DimaTivator**
+- 📚 Keen on programming, maths and algorithms
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
