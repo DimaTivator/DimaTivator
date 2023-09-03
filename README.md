@@ -1,9 +1,7 @@
 <h1 align="center">Hi there👋, I'm Dmitrii Andriianov</h1>
 <h3 align="center">ITMO University Student from Russia</h3>
 
-- 📫 How to reach me <a href="https://t.me/DimaTivator" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
-  </a>
+📫 How to reach me **https://t.me/DimaTivator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
