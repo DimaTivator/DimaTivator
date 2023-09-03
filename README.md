@@ -1,7 +1,9 @@
 <h1 align="center">Hi there👋, I'm Dmitrii Andriianov</h1>
 <h3 align="center">ITMO University Student from Russia</h3>
 
-- 📫 How to reach me **https://t.me/DimaTivator**
+- 📫 How to reach me <a href="https://t.me/DimaTivator" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
+  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,6 +15,9 @@
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
