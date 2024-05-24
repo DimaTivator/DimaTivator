@@ -3,6 +3,8 @@
 
 📫 How to reach me **https://t.me/DimaTivator**
 
+📄 [View my CV](./CV.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/dmitrii_andriianov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dmitrii_andriianov" height="30" width="40" /></a>
